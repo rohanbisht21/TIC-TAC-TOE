@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-this project used HTML-CSS, JAVASCRIPT.
+this project uses HTML-CSS, JAVASCRIPT.
